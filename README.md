@@ -17,12 +17,8 @@ A thoughtful content library for the things worth keeping.
 
 The interface uses a 50/40/10-inspired palette: warm white for breathing room, cobalt blue for structure, and butter yellow for energy and focus.
 
-## Use it
-
-Once GitHub Pages is enabled, the app will be available at:
+## Live app
 
 **https://nidhidumian.github.io/my-saves/**
 
-To publish: open **Settings → Pages**, choose **GitHub Actions** under “Build and deployment,” then run the included Pages workflow if it does not start automatically.
-
-No installation or account is required.
+Published automatically with GitHub Pages. No installation or account is required.
